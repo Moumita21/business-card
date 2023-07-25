@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+.avatar{
+   width: 250px; 
+}
+.back{
+    background-color:#ffe5ec;
+    width: 600px;
+    padding: 20px;
+    display: flex; /* new */
+    justify-content: space-around; /* space bw teo column*/
+    margin: 0px auto;
+    text-align: center;
+    border-bottom: 8px solid #fb6f92;
+    color: rgb(45, 45, 45);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.details{
+    text-align: center;
+    margin: auto 0;
+}
